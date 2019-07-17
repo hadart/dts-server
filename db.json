@@ -15,25 +15,5 @@
       "email":"hadian496@gmail.com",
       "password":"123"
     } 
-  ],
-  "news": [
-    {
-      "id":1,
-      "gambar":"https://blog.traveloka.com/source/uploads/2018/09/36501421_865482480304138_6382267272383168512_n-1024x795.jpg",
-      "judul":"8 Wisata Seru dan Murah Saat Backpacker ke Malang",
-      "hal_web":"https://blog.traveloka.com/malang/8-wisata-seru-dan-murah-saat-backpacker-ke-malang/"
-    },
-    {
-      "id":2,
-      "gambar":"https://blog.traveloka.com/source/uploads/2018/09/shutterstock_1171433803.jpg",
-      "judul":"11 Tips Backpacker ke Batu Malang yang Patut Dicoba",
-      "hal_web":"https://tempatwisataunik.com/info-wisata/tips-wisata/tips-backpacker-ke-batu-malang"
-    },
-    {
-      "id":3,
-      "gambar":"https://www.jejakpiknik.com/wp-content/uploads/2018/09/malang1-630x380.png",
-      "judul":"Backpacker Asyik ke Malang",
-      "hal_web":"https://www.jejakpiknik.com/backpacker-ke-malang/"
-    }
   ]
 }
