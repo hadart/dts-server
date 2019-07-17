@@ -2,17 +2,11 @@
   "users": [
     {
       "id":1,
-      "nama":"coba",
-      "ttl":"1994/11/29",
-      "jk":"Laki-laki",
-      "email":"hadian496@gmail.com",
+      "email":"tes@gmail.com",
       "password":"123"
     },{
       "id":2,
-      "nama":"tes",
-      "ttl":"1994/11/29",
-      "jk":"Laki-laki",
-      "email":"hadian496@gmail.com",
+      "email":"coba@gmail.com",
       "password":"123"
     } 
   ]
